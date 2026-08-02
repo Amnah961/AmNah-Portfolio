@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Amna Khalid | Digital Marketing Portfolio</title>
+
+    <meta name="description"
+        content="Portfolio of Amna Khalid - Digital Marketing, Shopify Store Development, SEO, and E-Commerce.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap"
+        rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- Scroll Progress -->
+
+    <div class="progress-bar"></div>
+
+    <!-- ==========================
+            HEADER
+    =========================== -->
+
+    <header class="header">
+
+        <div class="container">
+
+            <a href="#" class="logo">
+                AK
+            </a>
+
+            <nav class="navbar">
+
+                <a href="#home">Home</a>
+
+                <a href="#about">About</a>
+
+                <a href="#skills">Skills</a>
+
+                <a href="#experience">Experience</a>
+
+                <a href="#projects">Projects</a>
+
+                <a href="#education">Education</a>
+
+                <a href="#contact">Contact</a>
+
+            </nav>
+
+            <div class="menu-btn">
+
+                <i class="ri-menu-3-line"></i>
+
+            </div>
+
+        </div>
+
+    </header>
+
+    <!-- ==========================
+            HERO SECTION
+    =========================== -->
+
+    <section class="hero" id="home">
+
+        <div class="container hero-container">
+
+            <div class="hero-content">
+
+                <span class="hero-tag">
+
+                    Digital Marketing • Shopify • SEO
+
+                </span>
+
+                <h1>
+
+                    Digital Marketing
+                    <span>+</span>
+                    Shopify Store
+                    Developer
+
+                </h1>
+
+                <p>
+
+                    I'm <strong>Amna Khalid</strong>, a Computer Science graduate passionate about Digital Marketing,
+                    Shopify Store Development, SEO, and E-Commerce. I enjoy helping businesses build modern online
+                    stores, improve their digital presence, and create meaningful customer experiences.
+
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="assets/cv/Amnah_Khalid_CV.pdf"
+                        class="btn primary"
+                        download>
+
+                        Download CV
+
+                    </a>
+
+                    <a href="#projects"
+                        class="btn secondary">
+
+                        View Projects
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ==========================
+         ABOUT SECTION STARTS HERE
+         (Part 2 se continue hoga)
+    ========================== -->
+<!-- ==========================
+        ABOUT SECTION
+========================== -->
+
+<section class="about" id="about">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>ABOUT ME</span>
+
+            <h2>Passionate About Building Digital Experiences That Make an Impact.</h2>
+
+        </div>
+
+        <div class="about-content">
+
+            <div class="about-text">
+
+                <p>
+
+                    I'm <strong>Amna Khalid</strong>, a Computer Science graduate with practical experience in Shopify Store Development, Search Engine Optimization (SEO), Social Media Marketing, and E-Commerce.
+
+                </p>
+
+                <p>
+
+                    I enjoy transforming ideas into user-friendly digital experiences that help businesses establish a professional online presence. Through practical projects and continuous learning, I have developed skills in Shopify customization, Meta Pixel integration, keyword research, content planning, and digital marketing strategies.
+
+                </p>
+
+                <p>
+
+                    I'm currently seeking internship and entry-level opportunities where I can contribute, continue learning, and grow as a Digital Marketing Professional.
+
+                </p>
+
+                <a href="#projects" class="btn primary">
+
+                    View My Work
+
+                </a>
+
+            </div>
+
+            <div class="about-cards">
+
+                <div class="info-card">
+
+                    <h3>01+</h3>
+
+                    <p>Years Professional Experience</p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h3>03+</h3>
+
+                    <p>Completed Digital Marketing Projects</p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h3>08+</h3>
+
+                    <p>Professional Technical Skills</p>
+
+                </div>
+
+                <div class="info-card">
+
+                    <h3>01</h3>
+
+                    <p>Live Shopify Store</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- ==========================
+        SKILLS SECTION
+========================== -->
+
+<section class="skills" id="skills">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>MY SKILLS</span>
+
+            <h2>Tools & Technologies</h2>
+
+        </div>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+
+                <i class="ri-shopping-bag-line"></i>
+
+                <h3>Shopify</h3>
+
+                <p>
+
+                    Store Development, Theme Customization, Product Management and Collections.
+
+                </p>
+
+            </div>
+
+            <div class="skill-card">
+
+                <i class="ri-search-eye-line"></i>
+
+                <h3>SEO</h3>
+
+                <p>
+
+                    Keyword Research, Meta Titles, Meta Descriptions and On-Page SEO.
+
+                </p>
+
+            </div>
+
+            <div class="skill-card">
+
+                <i class="ri-megaphone-line"></i>
+
+                <h3>Social Media Marketing</h3>
+
+                <p>
+
+                    Content Planning, Audience Engagement and Marketing Strategy.
+
+                </p>
+
+            </div>
+
+            <div class="skill-card">
+
+                <i class="ri-global-line"></i>
+
+                <h3>Meta Pixel</h3>
+
+                <p>
+
+                    Pixel Integration, Event Tracking and Conversion Optimization.
+
+                </p>
+
+            </div>
+
+            <div class="skill-card">
+
+                <i class="ri-palette-line"></i>
+
+                <h3>Canva</h3>
+
+                <p>
+
+                    Creative Posts, Branding Material and Social Media Designs.
+
+                </p>
+
+            </div>
+
+            <div class="skill-card">
+
+                <i class="ri-file-list-3-line"></i>
+
+                <h3>Microsoft Office</h3>
+
+                <p>
+
+                    Word, Excel and PowerPoint for professional documentation.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- ==========================
+      EXPERIENCE SECTION
+========================== -->
+
+<section class="experience" id="experience">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>EXPERIENCE</span>
+
+            <h2>Professional Journey</h2>
+
+        </div>
+
+        <div class="timeline">
+
+            <div class="timeline-item">
+
+                <div class="timeline-dot"></div>
+
+                <div class="timeline-content">
+
+                    <span class="timeline-year">
+
+                        2024 — 2025
+
+                    </span>
+
+                    <h3>
+
+                        Computer Teacher
+
+                    </h3>
+
+                    <h4>
+
+                        The Royal School, Gojra
+
+                    </h4>
+
+                    <p>
+
+                        Delivered Computer Science lessons, prepared classroom activities, enhanced students' digital literacy, and developed strong communication, leadership, and classroom management skills.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- ==========================
+     PROJECTS START
+========================== -->
+<section class="projects" id="projects">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>FEATURED PROJECT</span>
+
+            <h2>Selected Work</h2>
+
+        </div>
+
+        <div class="project-card">
+
+            <div class="project-image">
+
+                <img src="assets/images/ahana-home.png"
+                     alt="Ahana Collection Shopify Store">
+
+            </div>
+
+            <div class="project-content">
+
+                <span class="project-tag">
+
+                    Shopify Development
+
+                </span>
+
+                <h3>
+
+                    Ahana Collection
+
+                </h3>
+
+                <p>
+
+                    Designed and managed a fully responsive Shopify e-commerce store with product organization,
+                    collections, navigation, store customization, Meta Pixel integration, SEO optimization,
+                    and user-friendly shopping experience.
+
+                </p>
+
+                <div class="project-tech">
+
+                    <span>Shopify</span>
+
+                    <span>SEO</span>
+
+                    <span>Meta Pixel</span>
+
+                    <span>Responsive Design</span>
+
+                </div>
+
+                <div class="project-buttons">
+
+                    <a href="https://ahanacollection.store/"
+                       target="_blank"
+                       class="btn primary">
+
+                        Visit Live Store
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="mini-projects">
+
+            <div class="mini-card">
+
+                <h3>
+
+                    SEO Optimization
+
+                </h3>
+
+                <p>
+
+                    Improved website visibility through keyword research, on-page optimization,
+                    meta tags and search engine best practices.
+
+                </p>
+
+            </div>
+
+            <div class="mini-card">
+
+                <h3>
+
+                    Social Media Marketing
+
+                </h3>
+
+                <p>
+
+                    Planned social media campaigns, designed engaging content,
+                    and developed audience engagement strategies.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- ==========================
+      EDUCATION SECTION
+========================== -->
+
+<section class="education" id="education">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>EDUCATION</span>
+
+            <h2>Academic Background</h2>
+
+        </div>
+
+        <div class="education-grid">
+
+            <div class="education-card">
+
+                <span class="edu-year">
+
+                    2019 — 2023
+
+                </span>
+
+                <h3>
+
+                    BS Computer Science
+
+                </h3>
+
+                <h4>
+
+                    Government College University Faisalabad
+
+                </h4>
+
+                <p>
+
+                    Built a strong foundation in Computer Science,
+                    Programming, Databases, Software Engineering and
+                    Digital Technologies.
+
+                </p>
+
+            </div>
+
+            <div class="education-card">
+
+                <span class="edu-year">
+
+                    2025
+
+                </span>
+
+                <h3>
+
+                    Digital Marketing & E-Commerce
+
+                </h3>
+
+                <h4>
+
+                    Corvit Systems Faisalabad
+
+                </h4>
+
+                <p>
+
+                    Professional training in Shopify Development,
+                    SEO, Social Media Marketing, Meta Pixel,
+                    Product Listing and E-Commerce Management.
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<!-- ==========================
+      CONTACT SECTION
+========================== -->
+
+<section class="contact" id="contact">
+
+    <div class="container">
+
+        <div class="contact-box">
+
+            <span>
+
+                LET'S CONNECT
+
+            </span>
+
+            <h2>
+
+                Let's Build Something Great Together
+
+            </h2>
+
+            <p>
+
+                I'm currently looking for Internship and Entry-Level
+                opportunities in Digital Marketing, Shopify Store Development,
+                SEO and E-Commerce.
+
+            </p>
+
+            <div class="contact-info">
+
+                <div class="contact-item">
+
+                    <i class="ri-mail-line"></i>
+
+                    <div>
+
+                        <h4>Email</h4>
+
+                        <a href="mailto:your@email.com">
+
+                            your@email.com
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="contact-item">
+
+                    <i class="ri-phone-line"></i>
+
+                    <div>
+
+                        <h4>Phone</h4>
+
+                        <a href="tel:+920000000000">
+
+                            +92 XXX XXXXXXX
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <div class="contact-item">
+
+                    <i class="ri-map-pin-line"></i>
+
+                    <div>
+
+                        <h4>Location</h4>
+
+                        <p>
+
+                            Punjab, Pakistan
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="hero-buttons">
+
+                <a href="assets/cv/Amnah_Khalid_CV.pdf"
+                   download
+                   class="btn primary">
+
+                    Download CV
+
+                </a>
+
+                <a href="https://ahanacollection.store/"
+                   target="_blank"
+                   class="btn secondary">
+
+                    Visit Store
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+
+
+<footer class="footer">
+
+    <div class="container">
+
+        <p>
+
+            © 2025 Amna Khalid • All Rights Reserved
+
+        </p>
+
+    </div>
+
+</footer>
+
+
+
+
+
+<button id="scrollTop">
+
+    <i class="ri-arrow-up-line"></i>
+
+</button>
+
+
+
+
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
